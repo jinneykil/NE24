@@ -1,8 +1,0 @@
-
-GitHub Timestamp
-
-Create a repository on GitHub, clone it, add a file, push those 
-changes to GitHub, and then look at the timestamp of the change on 
-GitHub. How does GitHub record times, and why?
-
-
